@@ -42,3 +42,7 @@ and finally **y** is the 2D trajectory created by the image sequence
 We train our model on segments from the CMU motion capture dataset and shown below are some results where the ground truth is in red, our results are in blue, and a baseline CNN is in yellow.
 
 ![traj1](figs/traj-01.gif) ![traj2](figs/traj-02.gif) ![traj3](figs/traj-03.gif)
+
+### Acknowledgments
+
+This work was supported by the CMU Argo AI Center for Autonomous Vehicle Research.
